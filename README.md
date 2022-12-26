@@ -59,16 +59,15 @@ Por uma simples curiosidade me tornei um bom profissional, uma boa pessoa com bo
   <a href = "mailto:matheus.gnu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-mello-4a717964" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://whatsa.me/5516991838523/?t=Ol%C3%A1%20Matheus%20vim%20atrav%C3%A9s%20do%20Github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
+            
+ ![Snake animation](https://github.com/MattMello88/MattMello88/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <hr />
 
 ### Link Contribuintes
 
-[shields.io](https://shields.io/)
-
-[Dev.to](https://dev.to/envoy_/150-badges-for-github-pnk)
-
-[emojipedia.org](https://emojipedia.org/)
-
-[devicon.dev](https://devicon.dev/)
+[shields.io](https://shields.io/) \n
+[Dev.to](https://dev.to/envoy_/150-badges-for-github-pnk) \n
+[emojipedia.org](https://emojipedia.org/) \n
+[devicon.dev](https://devicon.dev/) \n
