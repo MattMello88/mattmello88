@@ -30,9 +30,8 @@ Por uma simples curiosidade me tornei um bom profissional, uma boa pessoa com bo
 ### Status 🤖
 
 <div align="center">
-  <a href="https://github.com/MattMello88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MattMello88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattMello88&layout=compact&langs_count=7&theme=dracula" />
+  <a href="https://github.com/MattMello88"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MattMello88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></a>
+  <a href="https://github.com/MattMello88"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattMello88&layout=compact&langs_count=7&theme=dracula" /></a>
 </div>
 
 <hr />
@@ -64,9 +63,7 @@ Por uma simples curiosidade me tornei um bom profissional, uma boa pessoa com bo
 
 <hr />
 
-
 ### Link Contribuintes
-
 
 [shields.io](https://shields.io/)
 
