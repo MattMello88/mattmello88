@@ -34,6 +34,8 @@ Por uma simples curiosidade me tornei um bom profissional, uma boa pessoa com bo
   <a href="https://github.com/MattMello88"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattMello88&layout=compact&langs_count=7&theme=dracula" /></a>
 </div>
 
+![Snake animation](https://github.com/MattMello88/MattMello88/blob/output/github-contribution-grid-snake.svg)
+
 <hr />
 
 ### Full Stack Developer 💻
@@ -59,8 +61,6 @@ Por uma simples curiosidade me tornei um bom profissional, uma boa pessoa com bo
   <a href = "mailto:matheus.gnu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-mello-4a717964" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://whatsa.me/5516991838523/?t=Ol%C3%A1%20Matheus%20vim%20atrav%C3%A9s%20do%20Github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
-            
- ![Snake animation](https://github.com/MattMello88/MattMello88/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <hr />
