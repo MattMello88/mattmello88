@@ -67,7 +67,7 @@ Por uma simples curiosidade me tornei um bom profissional, uma boa pessoa com bo
 
 ### Link Contribuintes
 
-[shields.io](https://shields.io/) \n
-[Dev.to](https://dev.to/envoy_/150-badges-for-github-pnk) \n
-[emojipedia.org](https://emojipedia.org/) \n
-[devicon.dev](https://devicon.dev/) \n
+[shields.io](https://shields.io/) -
+[Dev.to](https://dev.to/envoy_/150-badges-for-github-pnk) -
+[emojipedia.org](https://emojipedia.org/) -
+[devicon.dev](https://devicon.dev/) -
