@@ -48,6 +48,7 @@ Por uma simples curiosidade me tornei um bom profissional, uma boa pessoa com bo
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" alt="IDE do Delphi" height="40" width="40" src="https://img.icons8.com/color/512/delphi-ide.png" />
   <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </div>
@@ -70,4 +71,4 @@ Por uma simples curiosidade me tornei um bom profissional, uma boa pessoa com bo
 [shields.io](https://shields.io/) -
 [Dev.to](https://dev.to/envoy_/150-badges-for-github-pnk) -
 [emojipedia.org](https://emojipedia.org/) -
-[devicon.dev](https://devicon.dev/) -
+[devicon.dev](https://devicon.dev/)
